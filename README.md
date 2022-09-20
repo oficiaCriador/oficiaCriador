@@ -1,5 +1,5 @@
 # Sobre mim
-- 👋 Olá, meu nome é @murilo
-- :+1: meu email de contato é murilo.martins.santos@escola.pr.gov.br
+- 👋 Olá, meu nome é **@murilo**
+- :+1: meu email de contato é [email](murilo.martins.santos@escola.pr.gov.br)
 - 👀 meu interesse a progamar n é tanto...
 - 🌱 e estou aprendendo com oque é passado,de programação...
